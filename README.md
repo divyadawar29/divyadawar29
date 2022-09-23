@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divyadawar29
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning advance python and java.
-- 💞️ I’m looking to collaborate on their projject.
+- 🌱 I’m currently learning Advance Python and Java.
+- 💞️ I’m looking to collaborate on their project.
 - 📫 How to reach me https://www.linkedin.com/in/divya-dawar-558900250
 
 <!---
